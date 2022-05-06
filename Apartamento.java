@@ -40,6 +40,6 @@ public class Apartamento extends BienesRaices {
 
     @Override
     public String toString() {
-        return "Apartamento{" + "numerolocal=" + numerolocal + ", referencia=" + referencia + '}';
+        return "Apartamento{" + "Numero de Locales:" + numerolocal + ", Referencia: " + referencia + '}';
     }
 }

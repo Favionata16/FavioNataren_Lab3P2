@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author dcasc
+ * @author favio
  */
 public class Residencial {
     private String nombre;

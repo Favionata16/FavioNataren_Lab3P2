@@ -39,7 +39,7 @@ public class BienesRaices {
 
     @Override
     public String toString() {
-        return "BienesRaices{" + "dirrecion=" + dirrecion + ", id=" + id + '}';
+        return "BienesRaices{" + "Dirrecion: " + dirrecion + ", Id: " + id + '}';
     }
     
 }

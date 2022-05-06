@@ -7,7 +7,7 @@ package FavioNataren_LabP2;
 
 /**
  *
- * @author dcasc
+ * @author favio
  */
 public class Casa extends BienesRaices {
     private int numerocasa;
@@ -40,7 +40,7 @@ public class Casa extends BienesRaices {
 
     @Override
     public String toString() {
-        return "Casa{" + "numerocasa=" + numerocasa + ", referencia=" + referencia + '}';
+        return "Casa[" + "Numero de Casa: " + numerocasa + ", Referencia: " + referencia + ']';
     }
     
 }

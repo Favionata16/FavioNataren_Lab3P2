@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author dcasc
+ * @author favio
  */
 public class Edificio extends BienesRaices {
     private int cantidadlocales;
