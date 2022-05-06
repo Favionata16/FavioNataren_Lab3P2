@@ -24,7 +24,6 @@ public class main {
         do {
             System.out.println("\n----Menu----"
                     + "\nOpciones disponibles:"
-                    + "\n0 .Salida"
                     + "\n1 .Agregar Casa"
                     + "\n2 .Agregar Edificio"
                     + "\n3 .Agregar Apartamneto"
@@ -40,6 +39,7 @@ public class main {
                     + "\n13.Agregar Compradores"
                     + "\n14.Agregar Residenciales"
                     + "\n15.Simulacion Venta"
+                    + "\n0 .Salir"
                     + "\nseleccione una opcion: ");
             opcion = lea.nextInt();
             switch (opcion) {
