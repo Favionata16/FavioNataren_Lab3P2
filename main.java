@@ -19,7 +19,7 @@ public class main {
         Residencial r = new Residencial();
         Edificio e = new Edificio();
         Scanner lea = new Scanner(System.in);
-        int opcion = 69;
+        int opcion = 0;
 
         do {
             System.out.println("\n----Menu----"
